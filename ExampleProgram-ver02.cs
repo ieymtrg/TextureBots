@@ -155,7 +155,7 @@ namespace toio.Samples.Sample_DigitalTwin
                 {
                     pos.y = 0.05f;
                     rb.MovePosition(pos);
-                    //state = 1;
+                    //state = 1; mode flag
                 }
             }
         }
